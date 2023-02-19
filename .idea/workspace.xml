@@ -18,9 +18,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/index.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/qr-code-component-main/README.md" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/qr-code-component-main/css/style.css" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/qr-code-component-main/index.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="2LwtN0YFdte5rnmoACU81PXPDXz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -47,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676793929386</updated>
-      <workItem from="1676793931739" duration="11770000" />
+      <workItem from="1676793931739" duration="11825000" />
     </task>
     <task id="LOCAL-00001" summary="Updated: Fronted Mentor challenge QR code component.">
       <created>1676825434479</created>
@@ -56,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676825434479</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated: Fronted Mentor challenge QR code component.">
+      <created>1676827734650</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676827734650</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
