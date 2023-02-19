@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e687d72-cc74-46b4-9fca-ca17e77975f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend_Mentor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qr-code-component-main/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qr-code-component-main/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qr-code-component-main/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qr-code-component-main/design/desktop-design.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qr-code-component-main/design/desktop-preview.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qr-code-component-main/design/mobile-design.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qr-code-component-main/images/Screeshot QR code challenge.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qr-code-component-main/images/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qr-code-component-main/images/image-qr-code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qr-code-component-main/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qr-code-component-main/style-guide.md" afterDir="false" />
-    </list>
+    <list default="true" id="4e687d72-cc74-46b4-9fca-ca17e77975f7" name="Changes" comment="Updated: Fronted Mentor challenge QR code component." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,8 +47,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676793929386</updated>
-      <workItem from="1676793931739" duration="10712000" />
+      <workItem from="1676793931739" duration="11770000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated: Fronted Mentor challenge QR code component.">
+      <created>1676825434479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676825434479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +75,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Updated: Fronted Mentor challenge QR code component." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated: Fronted Mentor challenge QR code component." />
   </component>
 </project>
